@@ -437,10 +437,5 @@ GitHub: \[@MailapakaMahathi](https://github.com/MailapakaMahathi)
 \---
 
 
-
-⭐ If you find this project interesting, feel free to explore the repository and its implementation.
-
-
-
 \*\*Developed as a Major Project.\*\*
 
